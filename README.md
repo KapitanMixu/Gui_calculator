@@ -1,2 +1,2 @@
 # Gui_calculator
-Calculator to boardgame Eclipse made with GTK and PyQt
+Calculator to board game Eclipse made with GTK and PyQt
