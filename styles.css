@@ -1,0 +1,70 @@
+.titlelabel {
+    font-size: 50px;
+}
+
+.subtitlelabel{
+    font-size: 20px;
+}
+
+.nlabel{
+    font-size: 15px;
+}
+
+.sumlabel{
+    font-size: 30px;
+}
+
+.colorgreen{
+    color: green;
+}
+
+.colorblue{
+    color: blue;
+}
+
+.colorred{
+    color: red;
+}
+
+.colorpurple{
+    color: purple;
+}
+
+.map{
+    background-image: none;
+    background-color: #c7c9c8;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 0;
+
+}
+.map:checked{
+    background-image: none;
+    border-radius: 20px;
+    font-size: 12px;
+
+}
+
+.minimap{
+    background-image: none;
+    background-color: #c7c9c8;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 0;
+}
+
+.mapgreen:checked{
+    background-color: green;
+}
+
+.mapblue:checked{
+    background-color: blue;
+}
+
+.mapred:checked{
+    background-color: red;
+}
+
+.mappurple:checked{
+    background-color: purple;
+}
